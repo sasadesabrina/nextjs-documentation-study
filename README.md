@@ -63,6 +63,8 @@ http://localhost:3000
 
 This repository may evolve over time as I continue studying new concepts and experimenting with different features of the Next.js ecosystem.
 
+![Build Status](https://github.com/sasadesabrina/nextjs-documentation-study/actions/workflows/main.yml/badge.svg)
+
 ## 👨‍💻 Author
 
 Created as part of my software development learning journey, documenting practical studies, experiments, and hands-on experience with modern web technologies.
