@@ -63,7 +63,7 @@ http://localhost:3000
 
 This repository may evolve over time as I continue studying new concepts and experimenting with different features of the Next.js ecosystem.
 
-![Build Status](https://github.com/sasadesabrina/nextjs-documentation-study/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/sasadesabrina/nextjs-documentation-stud/actions/workflows/nextjs.yml/badge.svg)
 
 ## 👨‍💻 Author
 
